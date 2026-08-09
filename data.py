@@ -1,5 +1,5 @@
 class CourierData:
-    EXISTING_LOGIN_MESSAGE = "Этот логин уже используется"
+    EXISTING_LOGIN_MESSAGE = "Этот логин уже используется. Попробуйте другой."
     NOT_ENOUGH_DATA_MESSAGE = "Недостаточно данных для создания учетной записи"
     LOGIN_NOT_ENOUGH_DATA_MESSAGE = "Недостаточно данных для входа"
     ACCOUNT_NOT_FOUND_MESSAGE = "Учетная запись не найдена"
